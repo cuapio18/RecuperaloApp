@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SaludMock</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Inicio de sesión</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo Electronico</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Ingresa o Registro</string>
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="error_invalid_email">Esta dirección de correo electrónico no es válida.</string>
+    <string name="error_invalid_password">Esta contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Se necesitan permisos de contactos para proporcionar correo electrónico
+         Terminaciones."
+    </string>
+
+    <string name="error_network">Conexión de red no disponible</string>
+    <!--<string name="error_invalid_password"></string>-->
+
+</resources>
